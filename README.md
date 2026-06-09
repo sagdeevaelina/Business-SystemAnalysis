@@ -1,5 +1,4 @@
-# Business-SystemAnalysis
-BSA educative projects
+# Business-SystemAnalysis Case
 
 # Кейс: Проектирование системы логирования сессий плагинов для снижения нагрузки на техническую поддержку
 
